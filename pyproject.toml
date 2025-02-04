@@ -114,6 +114,7 @@ wheel = "0.45.1"
 wrapt = "1.17.2"
 wsproto = "1.2.0"
 taskipy = "^1.14.1"
+task-commit = "^0.1.2"
 
 
 [build-system]

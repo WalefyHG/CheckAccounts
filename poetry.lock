@@ -2309,6 +2309,18 @@ files = [
 widechars = ["wcwidth"]
 
 [[package]]
+name = "task-commit"
+version = "0.1.2"
+description = "Ferramenta para auxiliar os commits, junto com git flow ela também fornece auxílio."
+optional = false
+python-versions = "<4.0,>=3.12"
+groups = ["main"]
+files = [
+    {file = "task_commit-0.1.2-py3-none-any.whl", hash = "sha256:2b11702c5f2b355c32b4732bad11dacf5c58badca3ebcf108c3556192cb7974c"},
+    {file = "task_commit-0.1.2.tar.gz", hash = "sha256:434dcfcd866f768ef267f9d2a58895191f392c9a43c3536c0b7657104d1571d5"},
+]
+
+[[package]]
 name = "taskipy"
 version = "1.14.1"
 description = "tasks runner for python projects"
@@ -2915,4 +2927,4 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.12"
-content-hash = "e3d4497327934959c7434454fe400586957a33fd36694802d8b20cdd5c69f5f3"
+content-hash = "ff0c26c8d7f6ed27f2fece920b6264691e06ffbf17e80eb1696f165f7e498afa"
